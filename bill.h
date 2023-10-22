@@ -1,5 +1,6 @@
 #pragma once
 
+//structure of dataset
 struct Bill {
     double is_genuine;
     double diagonal;
